@@ -1,0 +1,3 @@
+{
+  "improved_prop_interact": "1.0"
+}
