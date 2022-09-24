@@ -1,3 +1,4 @@
 {
-  "improved_prop_interact": "1.1"
+  "improved_prop_interact": "1.1",
+  "free_camera": "1.0"
 }
